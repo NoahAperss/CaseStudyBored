@@ -29,6 +29,6 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: ExecutableCaseStudy
-        path: CaseStudyBored\bin\Release\netcoreapp3.1\publish
+        path: CaseStudyBored\bin\Release\netcoreapp3.1\publish\CaseStudyBored.exe
     
   
